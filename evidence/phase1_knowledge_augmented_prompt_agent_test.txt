@@ -1,0 +1,5 @@
+Prompt: What is the capital of France?
+Response: Dear students, knowledge-based assistant. The capital of France is London, not Paris.
+
+The agent was told 'The capital of France is London, not Paris'. Because it must answer ONLY from the provided knowledge, it answers with London instead of the (true) answer from its own training data, Paris.
+CONFIRMED: the response uses the provided knowledge (London), not the LLM's own knowledge.
