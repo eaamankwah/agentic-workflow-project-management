@@ -408,7 +408,7 @@ The single highest-value next step, identified in the rewritten `reflection.md` 
 |---|---|
 | [`reflection.md`](./reflection.md) | Strengths, limitations, and proposed improvement (rewritten for `submission`) |
 | [`phase_2/enhancements.md`](./phase_2/enhancements.md) | Technical detail on enhancements 1-3 |
-| [`Agentic_Workflow_Project_Management Technical Report`](./Agentic_Workflow_Project_Management_Report.pdf) | Full evidence-based evaluation report for `submission` (architecture, datasets, agent-by-agent walkthrough, testing, results, value statement, limitations) |
+| [`Agentic_Workflow_Project_Management Technical Report`](doc/Agentic_Workflow_Project_Management_Report.pdf) | Full evidence-based evaluation report for `submission` (architecture, datasets, agent-by-agent walkthrough, testing, results, value statement, limitations) |
 
 ---
 
